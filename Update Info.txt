@@ -1,0 +1,26 @@
+################################
+#  MineCraft Account Cracker   #
+#       by WhatsFast           #
+#   Free Version               #
+#   Mpgh: WhatsFast            #
+################################
+
+Current version: 0.85
+Last known working date: 11/7/2013
+
+Version 0.85
+-Added proxy checking
+-Removed "Bad proxy" printing
+-Added improved proxy timeout option
+-Added thread number option
+
+Version 0.8
+-Fixed cracker to work with Yggsdrasil Edition
+-Removed proxy timeout option
+
+Version 0.5
+-Fixed bugs
+-Added timeout
+
+Version 0.1
+-Created Python Cracker
